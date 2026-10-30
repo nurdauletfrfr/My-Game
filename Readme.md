@@ -1,9 +1,8 @@
 ## Title
 Rush Hour
-
+## Concept
 Top-down 2D time trial racing game made in Unity (C#).
 
-## Concept
 Race the clock on three tracks and beat your best lap times. Finish a track to unlock the next track.
 
 ## Features
