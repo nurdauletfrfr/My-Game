@@ -3,14 +3,18 @@ Rush Hour
 ## Concept
 Top-down 2D time trial racing game made in Unity (C#).
 
-Race the clock on three tracks and beat your best lap times. Finish a track to unlock the next track.
+Race the clock on tracks and beat your best lap times. Finish a track to unlock the next track.
 
 ## Features
 - Physics-based top-down car handling
 - Ordered checkpoints and lap timer
-- 3 tracks, 2 cars
+- 3 tracks, 3 cars(not connected to each other)
 - Best times and unlocks saved between sessions
 - Main menu with volume setting (saved)
+- Pause menu(resume, restart, quit to menu)
+- Speedometer: a UI text or bar showing speed
+- Nitro: a boost meter that fills over time
+- Mini map: a second camera that looks down at the track
 
 ## Controls
 - W / Up: accelerate
